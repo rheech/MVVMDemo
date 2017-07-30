@@ -1,2 +1,2 @@
 # MVVMDemo
-An example application to study MVVM pattern.
+An example application to study and demonstrate MVVM pattern.
